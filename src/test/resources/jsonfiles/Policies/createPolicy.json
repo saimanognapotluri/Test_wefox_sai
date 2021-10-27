@@ -1,0 +1,8 @@
+{
+	"name" : "third cassandra policy",
+	"assignedTo" : "d09b66b3-429e-4eb4-b4a5-cc895b58b845",
+	"description" : "third cassandra policy",
+	"startDate" : "2020-05-17T00:00:00Z",
+	"endDate" : "2020-05-29T00:00:00Z",
+	"recordType" : "Policy"
+}

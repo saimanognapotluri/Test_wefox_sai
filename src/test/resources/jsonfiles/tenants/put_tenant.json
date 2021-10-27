@@ -1,0 +1,18 @@
+{
+  "code": "1234",
+  "createdAt": "2021-01-11 14:48:49.974000+0000",
+  "regionId": "f644964d-5006-11eb-8848-0242ac110003",
+  "status": "Active",
+  "subscriptionPlan": {
+    "autoRenewal": true,
+    "expiresOn": "2021-04-15T23:59:59Z",
+    "lastRenewal": "2021-04-15T23:59:59Z",
+    "membershipPlan": "Basic",
+    "startDate": "2021-01-15T00:00:00Z",
+    "subscriptionId": "f1762d6c-51a1-11eb-bfb4-acde48001122"
+  },
+  "tenantEntityId": "f644964d-5006-11eb-8848-0242ac110003",
+  "tenantId": "c7120058-5103-11eb-89e6-acde48001122",
+  "tenantName": "NTA",
+  "tenantType": "MO"
+}

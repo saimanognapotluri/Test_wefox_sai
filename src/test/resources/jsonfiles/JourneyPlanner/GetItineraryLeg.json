@@ -1,0 +1,9 @@
+{
+  "filters": [
+   {
+        "action":"range",
+        "field":"created_time",
+        "values":["2020-07-05T18:45:09.981Z", "2021-04-26T18:45:09.981Z"]
+        }
+  ]
+}

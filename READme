@@ -1,0 +1,22 @@
+This project is intended to work with test cases related to Part 2 UI automation assignment & framework related to it
+
+Recommended IDE - > Eclipse or IntelliJ
+
+Few of the basic setup used are
+1. selenium libraries
+2. chrome driver WebDriverManager Utilities
+3. Maven setup
+4. Java Setup
+5. jUnit jar libraries
+6. jUnit installation with eclipse
+7. Cucumber BDD setup
+8. Extent report reporting utility
+
+################### Steps to execute this project ##########################
+1. Navigate to /src/test/java/StepDefinitions/TestRunner.java
+2. Right click on the Java class and RunAs -> JUnit
+3. After execution please find the HTML report here -> target/SparkReports/Index.html
+
+JUnit test report is also generated after the test Execution path- "<current project directory>/target"
+
+Feature files are available in the path - "<current project directory>/src/test/resources/Features"

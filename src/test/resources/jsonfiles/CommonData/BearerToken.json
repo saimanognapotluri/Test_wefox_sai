@@ -1,0 +1,11 @@
+{
+ 		"CubicIdHost":               "https://id.dev-2.maas.play.cloud.cubic-platforms.io",
+ 		"CubicIdClientId":           "umo",
+ 		"CubicIdClientSecret":       "<CubicIdClientSecret>",
+ 		"CubicIdRealm":              "CubicID",
+ 		"MaasKeycloakHost":          "https://id.dev-2.maas.play.cloud.cubic-platforms.io",
+ 		"MaasKeycloakClientId":      "maas.portal",
+ 		"MaasClientSecret":          "<MaasClientSecret>",
+ 		"MaasRealm":                 "MaaS",
+ 		"MaasIdentityProviderAlias": "keycloak-oidc-cubicid"
+}

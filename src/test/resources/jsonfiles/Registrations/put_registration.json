@@ -1,0 +1,15 @@
+{
+  "contactEmail": "sarah@gmail.com",
+  "contactName": "Sarah",
+  "contactPhone": "123456789",
+  "country": "USA",
+  "countrySubdivision": "CA",
+  "createdAt": "2021-01-06 10:06:25.247000+0000",
+  "partnerDescription": "New York City Transport Authority",
+  "partnerName": "NYCTA",
+  "partnerUrl": "https://www.mta.info/nyct",
+  "region": "San Diego",
+  "registrationId": "65731b40-8af9-11eb-975f-acde48001122",
+  "status": "New",
+  "type": "MA"
+}
