@@ -29,7 +29,7 @@
 							<goal>generate</goal>
 						</goals>
 						<configuration>
-							<projectName>Umo Maas Portal</projectName>
+							<projectName>Assignment</projectName>
 							<!-- optional, per documentation set this to "true" to bypass generation 
 								of Cucumber Reports entirely, defaults to false if not specified -->
 							<skip>false</skip>
